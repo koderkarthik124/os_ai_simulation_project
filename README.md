@@ -91,9 +91,17 @@ frontend/
     services/api.ts        Client for the backend analysis endpoint
     store/useOSStore.ts    Zustand store: graph state, connect/change handlers, analysis
 ```
-
+<br>
 
 <img width="1913" height="967" alt="Screenshot 2026-07-03 222352" src="https://github.com/user-attachments/assets/11fa35b3-c8ab-4f03-bfd7-b4bc041bf6b4" />
 
+<br>
 
 <img width="1902" height="958" alt="Screenshot 2026-07-03 222040" src="https://github.com/user-attachments/assets/86d76499-c1f5-4ddc-85a9-187feb0512d3" />
+
+
+<br>
+
+https://github.com/user-attachments/assets/a5aa7ce6-0af4-4957-8db1-4b946f40c363
+
+
