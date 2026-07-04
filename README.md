@@ -98,12 +98,9 @@ frontend/
 <br>
 
 <img width="1902" height="958" alt="Screenshot 2026-07-03 222040" src="https://github.com/user-attachments/assets/86d76499-c1f5-4ddc-85a9-187feb0512d3" />
-
-
-<br>
-### DEMO VIDEO
 <br>
 
+## DEMO VIDEO
 
 
 https://github.com/user-attachments/assets/a5aa7ce6-0af4-4957-8db1-4b946f40c363
