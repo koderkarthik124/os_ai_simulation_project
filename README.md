@@ -92,4 +92,3 @@ frontend/
     store/useOSStore.ts    Zustand store: graph state, connect/change handlers, analysis
 ```
 
-See [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for a 5-minute demo video walkthrough.
